@@ -4,7 +4,7 @@
 
 This project implements an Acrobot controller simulation that demonstrates various control strategies described in [this paper](https://courses.ece.ucsb.edu/ECE179/179D_S12Byl/hw/acrobot_swingup.pdf) on a two-link underactuated system (acrobot) using Drake. This work was done for ME5659 - Control Systems Engineering as a part of the final project. The project is described in detail in the report attached.
 
-<img src="acrobot.gif" alt="Acrobot simulation" width="400" height="300"/>
+<img src="acrobot.gif" alt="Acrobot simulation" width="400"/>
 
 ## Control Strategies used
 
